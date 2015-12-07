@@ -1,0 +1,1 @@
+﻿Right-click TestService.svc "View in browser" to start IIS hosting
